@@ -300,8 +300,8 @@ body {
         min-height: 100vh; /* Ensure it takes full height */
     }
     .chat-container {
-        height: 90vh; /* Full height */
-        max-height: 90vh; /* Ensure it doesn't exceed */
+        height: 80vh; /* Full height */
+        /* Ensure it doesn't exceed */
         border-radius: 0; /* No rounded corners */
         border: none;
         box-shadow: none;
